@@ -1,0 +1,4 @@
+AUTHOR: Jovan
+DATE: 10.04.21
+
+This is a terminal based program rendering a matrix-like text dripping display using ncurses. It is a beginner project and likely inefficient.
